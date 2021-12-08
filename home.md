@@ -2,16 +2,5 @@ layout: page
 title: "Home"
 permalink: /home/
 
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jwendt3432/eecs201website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+My name is Joseph Wendt and I am a junior at the University of Michigan studying electrical engineering. I am set to graduate in 2023 and am from Houston, TX. I love hiking, traveling, and just getting outside, and am involved with the Michigan Club Swim Team and Michigan Solar Car Team. Looking forward, I hope to live somewhere with warm weather for my full time job. I’d like to work in industry in a role that would give me exposure to many different projects and topics, such as consulting or systems engineering on electrical hardware projects.
 
