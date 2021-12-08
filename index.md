@@ -4,9 +4,10 @@ You can use the [editor on GitHub](https://github.com/jwendt3432/eecs201website/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-
+Home page:
 [Home](home.md)
 
+Blogs:
 [Blog](blog.md)
 
 
